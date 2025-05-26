@@ -3,7 +3,7 @@ TanggAPI (*Identifikasi Kebakaran Berdasarkan Gambar dan Analisis Postingan Inst
 
 This platform combines a mobile application for real-time fire incident tracking and reporting from users and cameras with a social media detection model that analyzes posts from Instagram. 
 
-TanggAPI is the result of a collaborative effort between two final projects: "Sistem Deteksi dan Pelaporan Kebakaran berbasis Mobile dan Deep Learning di Kalimantan Selatan" and "Sistem Deteksi dan Pelaporan Kebakaran dari Instagram Menggunakan Natural Language Processing," both developed at Politeknik Negeri Banjarmasin.
+TanggAPI is the result of a collaborative effort between two final projects: "Sistem Deteksi dan Pelaporan Kebakaran berbasis Mobile dan Deep Learning di Kalimantan Selatan" and "Sistem Deteksi dan Pelaporan Kebakaran dari Instagram Menggunakan Natural Language Processing", both developed at Politeknik Negeri Banjarmasin.
 
 
 ## Team Members
