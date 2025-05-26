@@ -1,5 +1,5 @@
 ## About TanggAPI
-TanggAPI (*Identifikasi Kebakaran Berdasarkan Gambar dan Analisis Postingan Instagram di Kota Banjarmasin*, translates to "Fire Identification Based on Images and Instagram Post Analysis in Banjarmasi") is an innovative platform designed for detecting, reporting, and tracking fire incidents in the Kalimantan Selatan province and Banjarmasin city of Indonesia. 
+TanggAPI (*Identifikasi Kebakaran Berdasarkan Gambar dan Analisis Postingan Instagram di Kota Banjarmasin*, translates to "Fire Identification Based on Images and Instagram Post Analysis in Banjarmasin") is an innovative platform designed for detecting, reporting, and tracking fire incidents in the Kalimantan Selatan province and Banjarmasin city of Indonesia. 
 
 This platform combines a mobile application for real-time fire incident tracking and reporting from users and cameras with a social media detection model that analyzes posts from Instagram. 
 
