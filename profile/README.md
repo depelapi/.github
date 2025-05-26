@@ -7,8 +7,8 @@ TanggAPI is the result of a collaborative effort between two final projects: "Si
 
 
 ## Team Members
-| NIM | Name | Study Program | Role |
+| NIM | Name | Study Program | Contributions |
 | ---------------- | ------------------------ | ------------------ | ------------------------------------ |
 | **C030322086** | Muhammad Azhim Nugroho | D3 Teknik Informatika  | [Mobile App](https://github.com/depelapi/mobile-app) & [Back-end API](https://github.com/depelapi/backend-api) |
 | **C030322095** | Nida'an Khaffiya | D3 Teknik Informatika | [Fire Detection Model](#) & [Camera API](#) |
-| **C050421011** | Jasmine Kinasih | D4 Sistem Informasi Kota Cerdas | [Social Media Detection Model](#) & [Web App](#) |
+| **C050421011** | Jasmine Kinasih | D4 Sistem Informasi Kota Cerdas | [Instagram Post Analysis Model](#) & [Web App](#) |
