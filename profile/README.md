@@ -1,9 +1,9 @@
-## About SIGAPI
-SIGAPI (abbreviated from **Si**stem Tang**ga**p A**pi**, which translates to "Fire Response System") is an innovative platform designed for detecting, reporting, and tracking fire incidents in the Kalimantan Selatan province and Banjarmasin city of Indonesia. 
+## About TanggAPI
+TanggAPI (*Identifikasi Kebakaran Berdasarkan Gambar dan Analisis Postingan Instagram di Kota Banjarmasin*, translates to "Fire Identification Based on Images and Instagram Post Analysis in Banjarmasi") is an innovative platform designed for detecting, reporting, and tracking fire incidents in the Kalimantan Selatan province and Banjarmasin city of Indonesia. 
 
-This platform combines a mobile application for real-time incident tracking and reporting from users and cameras with a social media detection model that analyzes posts from Instagram. 
+This platform combines a mobile application for real-time fire incident tracking and reporting from users and cameras with a social media detection model that analyzes posts from Instagram. 
 
-SIGAPI is the result of a collaborative effort between two final projects: "Sistem Deteksi dan Pelaporan Kebakaran berbasis Mobile dan Deep Learning di Kalimantan Selatan" and "Sistem Deteksi dan Pelaporan Kebakaran dari Instagram Menggunakan Natural Language Processing," both developed at Politeknik Negeri Banjarmasin.
+TanggAPI is the result of a collaborative effort between two final projects: "Sistem Deteksi dan Pelaporan Kebakaran berbasis Mobile dan Deep Learning di Kalimantan Selatan" and "Sistem Deteksi dan Pelaporan Kebakaran dari Instagram Menggunakan Natural Language Processing," both developed at Politeknik Negeri Banjarmasin.
 
 
 ## Team Members
